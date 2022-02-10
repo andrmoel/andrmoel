@@ -2,9 +2,7 @@
 
 <p align="right"><strong>technical lead @ doctari</strong></p>
 
-![Header](https://raw.githubusercontent.com/andrmoel/andrmoel/main/separator.jpg "Separator")
-
-my space junk
+m y &nbsp; s p a c e  &nbsp; j u n k
 
 - 🌞 www.polarlicht-vorhersage.de
 - 🌘 www.polarlicht-archiv.de
