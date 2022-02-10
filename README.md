@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/andrmoel/andrmoel/main/header_tse2021.jpg "Header Top")](https://www.high-iso.de/)
+[![Header](https://raw.githubusercontent.com/andrmoel/andrmoel/main/header.jpg "Header Top")](https://www.high-iso.de/)
 
 <p align="center">🇩🇪 <strong>technical lead @ doctari</strong> 🇩🇪</p>
 
